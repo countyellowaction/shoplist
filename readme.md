@@ -1,1 +1,1 @@
-#This is a sample data store
+This is a sample data store
